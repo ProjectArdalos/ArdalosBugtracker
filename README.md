@@ -16,7 +16,7 @@ On the Bugtracker everything must be written in English. Before reporting, pleas
  - Use our ISSUE_TEMPLATE when you creating a new report (otherwise it would be invalid).
  - Write your reports title according to the format:<br>
  
- Example issue report forms:
+ Example issue report titles:
   * `[Quest][Azuremyst Isle]` Red Snapper - Very Tasty!<br>
   * `[NPC]` Magistrix Erona<br>
   * `[Spell][Mage]` Fireball<br>
