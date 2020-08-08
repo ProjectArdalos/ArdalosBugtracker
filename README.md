@@ -4,7 +4,6 @@
 Project-Ardalos 7.3.5 Legion Bugtracker
 =======================================
 
-http://isitmaintained.com/badge/resolution/ProjectArdalos/ArdalosBugtracker.svg
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/ProjectArdalos/ArdalosBugtracker.svg)](http://isitmaintained.com/project/ProjectArdalos/ArdalosBugtracker "Average time to resolve an issue") [![Percentage of issues still open](http://isitmaintained.com/badge/open/ProjectArdalos/ArdalosBugtracker.svg)](http://isitmaintained.com/project/ProjectArdalos/ArdalosBugtracker "Percentage of issues still open")
 
 How to use the bugtracker?
